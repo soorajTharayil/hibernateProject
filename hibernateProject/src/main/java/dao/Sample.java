@@ -8,7 +8,7 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 import javax.persistence.Query;
 
-import dto.Sample;
+
 import dto.Student;
 
 public class Sample {
